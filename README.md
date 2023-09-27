@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=HarshitVashisht11&color=green)
+  <a href="https://visitorbadge.io/status?path=HarshitVashisht11"><img src="https://api.visitorbadge.io/api/visitors?path=HarshitVashisht11&countColor=%2337d67a&style=flat-square" /></a>
 </div>
 
 ###
