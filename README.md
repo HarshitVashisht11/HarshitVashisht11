@@ -51,6 +51,12 @@
 
 ###
 
+<h3 align="left">😄 Badges</h3>
+
+[![An image of @harshitvashisht11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitvashisht11)](https://holopin.io/@harshitvashisht11)
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
