@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with backend<br>🌱 I’m currently learning database<br>💬 Ask me about frontend
+👋 Hi i am Harshit Vashisht a developer from India <br>🌱 I’m currently learning database<br>💬 Ask me about frontend
 
 
 ## 🌐 Socials:
