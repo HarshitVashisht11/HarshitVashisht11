@@ -1,6 +1,8 @@
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 # 💫 About Me:
 👋 Hi i am Harshit Vashisht a developer from India <br>🌱 I’m currently learning database<br>💬 Ask me about frontend
-
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harshitstwitt) 
@@ -15,11 +17,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshitVashisht11&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🌟 Badges:
+[![An image of @harshitvashisht11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitvashisht11)](https://holopin.io/@harshitvashisht11)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HarshitVashisht11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HarshitVashisht11&icon=4&color=11)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://visitorbadge.io/status?path=HarshitVashisht11"><img src="https://api.visitorbadge.io/api/visitors?path=HarshitVashisht11&countColor=%2337d67a&style=flat-square" /></a>
+</div>
