@@ -2,7 +2,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 💫 About Me:
-👋 Hi i am Harshit Vashisht a developer from India <br>🌱 I’m currently learning database<br>💬 Ask me about frontend
+👋 Hi i am Harshit Vashisht a developer from India <br>🌱 I’m currently AWS<br>💬 Ask me about docker and backend
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harshitstwitt) 
